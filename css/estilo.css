@@ -1,0 +1,95 @@
+body {
+	margin: 0px;
+	font-family: helvetica, times, arial;
+	color: #666666;
+}
+
+.fondo1 {
+	background-image: url("../images/bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: auto;
+
+}
+
+.fondo2 {
+	margin-top: 40px;
+	background-color: black;
+	height: 80px;
+	width: auto;
+}
+
+li a{
+	color: #666666;
+}
+
+ul {
+	padding-top: 25px;
+}
+
+
+.logo {
+	padding-top: 25px;
+	max-width: 40%;
+}
+
+.button {
+	width: auto;
+    text-align: center;
+	color: white;
+	border: none;
+  	border-radius: 5px;
+  	padding: 10px 20px;
+  	margin: 5px;
+}
+
+.buttonBlanco {
+	width: auto;
+    text-align: center;
+    border-color: #cccccc;
+  	border-radius: 5px;
+  	padding: 10px 20px;
+  	margin: 5px;
+  	background-color: white; 
+}
+
+.bAzul {
+    background-color: #3379b7; 
+}
+
+.azul {
+    color: #3379b7; 
+}
+
+.bVerde {
+    background-color: #5bb85b; 
+}
+
+.parrafo {
+	font-size: small;
+}
+
+.centered{
+	text-align: center;	
+}
+
+.Lblanca {
+	color: white;
+}
+
+.Lnegrita {
+	font-weight: bold;
+}
+
+.espacioTop{
+	padding-top: 60px;
+}
+
+.espacioTopP{
+	padding-top: 20px;
+}
+
+.espacioBotton{
+	padding-bottom: 30px;
+}
